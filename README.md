@@ -2,7 +2,7 @@
 
 A polished, interview-ready analytics project showcasing e-commerce KPIs and drilldowns. Includes a 65k+ line synthetic retail dataset (2023–2024), DAX measures, SQL mirrors, and a clean page layout you can recreate in Power BI.
 
-![Dashboard Mock](../dashboard_mock.png)
+![Dashboard Mock](./dashboard_mock.png)
 
 ---
 

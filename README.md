@@ -69,11 +69,6 @@ RETURN DIVIDE(TopProfit, [Margin])
 
 ---
 
-## Business Story Talking Points
-- Conversion & Returns: "Brand X in Region South shows strong CVR but a higher Return Rate — candidate for fit/size messaging."
-- Seasonality: "Event weeks lift GMV; we ramp stock and campaigns accordingly."
-- Profit Concentration: "Top 10% SKUs contribute ~Y% of total margin (measure included). Focus on availability and ads for these."
-- Next Steps: "Add markdown simulator, CLV cohorts, and anomaly alerts for funnel drops."
 
 ## License
 MIT
